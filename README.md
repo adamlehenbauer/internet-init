@@ -48,13 +48,13 @@ Since Flash sucks at playing streaming video, many companies have created simila
 Use a modern, secure browser
 ----------------------------
 
-Not all web browsers are created equal. [what's a browser?](browser-basics)
+Not all web browsers are created equal. ([what's a browser?](browser-basics))
 
 Modern, secure browsers are:
 
 * [Google's Chrome](http://www.google.com/chrome)
 * [Firefox](http://www.mozilla.com/en-US/firefox/)
-* [The _latest_ Internet Explorer](http://www.microsoft.com/windows/internet-explorer/default.aspx)
+* [The _latest_ Internet Explorer](http://www.microsoft.com/windows/internet-explorer/default.aspx) (latest is IE 8)
 * [Opera](http://www.opera.com/)
 
 If you're the typical non-technical web user, Chrome is a great choice; its very fast, free, and safe.
