@@ -1,3 +1,8 @@
+---
+layout: default
+title: Internet Init
+---
+
 Internet Init: Human Browsing
 =============================
 
